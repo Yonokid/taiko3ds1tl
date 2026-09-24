@@ -2,6 +2,12 @@
 
 Tools for extracting, translating, and repacking Taiko 3DS1 story scripts
 
+# GUI
+
+A GUI is available:
+1. install uv
+2. run `uv run scripts/edit_gui.py`
+
 ## Scripts
 
 | Script | Purpose |
