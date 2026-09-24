@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+#
+game_extracted
+packed_extracted
+packed_translated
+packedlist_translated
+story_msg_repacked
+game.cia
