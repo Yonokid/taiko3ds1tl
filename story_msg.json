@@ -95,57 +95,68 @@
   "S01_AREA1/S01_A01_FIRST/S01_A01_FIRST_010.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「ここは…\nいったい どこだドン？"
+    "text": "どんちゃん「ここは…\nいったい どこだドン？",
+    "text_en": "Don-chan: This place...\nJust where is this da-don?"
   },
   "S01_AREA1/S01_A01_FIRST/S01_A01_FIRST_020.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "ギャ！このかっこうは なにカッ！？\nいろいろついてるドン"
+    "text": "ギャ！このかっこうは なにカッ！？\nいろいろついてるドン",
+    "text_en": "Gyah! What's with this outfit!?\nThere's all sorts of stuff on it da-don"
   },
   "S01_AREA1/S01_A01_FIRST/S01_A01_FIRST_030.msb": {
     "type": "dialogue",
     "control_id": 100,
-    "text": "…\n"
+    "text": "…\n",
+    "text_en": "...\n"
   },
   "S01_AREA1/S01_A01_FIRST/S01_A01_FIRST_040.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "あれ？\nかっちゃんが いないドン…"
+    "text": "あれ？\nかっちゃんが いないドン…",
+    "text_en": "Huh?\nKat-chan isn't here da-don..."
   },
   "S01_AREA1/S01_A01_FIRST/S01_A01_FIRST_050.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "かっちゃーーん！\nどこにいるドーーーーン！"
+    "text": "かっちゃーーん！\nどこにいるドーーーーン！",
+    "text_en": "Kat-chaaaan!\nWhere are you da-doooon!"
   },
   "S01_AREA1/S01_A01_FIRST/S01_A01_FIRST_060.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "いなかったら\nいないっていうドーーン！"
+    "text": "いなかったら\nいないっていうドーーン！",
+    "text_en": "If you're not here,\nat least say so da-doooon!"
   },
   "S01_AREA1/S01_A01_FIRST/S01_A01_FIRST_070.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "…それにしても なんでこんなに\nいろいろ もえているのカッ…？"
+    "text": "…それにしても なんでこんなに\nいろいろ もえているのカッ…？",
+    "text_en": "...Still, why is\neverything so burnt up cah...?"
   },
   "S01_AREA1/S01_A01_FIRST/S01_A01_FIRST_080.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "あーーーーーーーーーっ！！\n"
+    "text": "あーーーーーーーーーっ！！\n",
+    "text_en": "Aaaaaaaaaaah!!\n"
   },
   "S01_AREA1/S01_A01_FIRST/S01_A01_FIRST_090.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "なにか みつけたドン\nペンダントだドン！！"
+    "text": "なにか みつけたドン\nペンダントだドン！！",
+    "text_en": "I found something da-don\nIt's a pendant da-don!!"
   },
   "S01_AREA1/S01_A01_FIRST/S01_A01_FIRST_100.msb": {
     "type": "dialogue",
     "control_id": 100,
-    "text": "<31744>マホウのペンダント を てにいれた！<0>\n"
+    "text": "<31744>マホウのペンダント を てにいれた！<0>\n",
+    "text_en": "<31744>Obtained the Magic Pendant!<0>\n"
   },
   "S01_AREA1/S01_A01_FIRST/S01_A01_FIRST_110.msb": {
     "type": "dialogue",
     "control_id": 41,
-    "text": "？？？「ギャオオオオオオ！！\nボクのペンダントをかえせーーっ！！"
+    "text": "？？？「ギャオオオオオオ！！\nボクのペンダントをかえせーーっ！！",
+    "text_en": "???: Gyaoooooo!!\nGive me back my pendaaant!!"
   },
   "S01_AREA1/S01_A01_RETRY/MSG_Info.msb": {
     "type": "info_table",
@@ -163,317 +174,380 @@
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_010.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "？？？「ふぎゃ！\n"
+    "text": "？？？「ふぎゃ！\n",
+    "text_en": "???: Gyah!\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_015.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "うぅぅ…"
+    "text": "うぅぅ…",
+    "text_en": "Ungh..."
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_020.msb": {
     "type": "dialogue",
     "control_id": 100,
-    "text": "<31744>火のオーブ を てにいれた！<0>\n"
+    "text": "<31744>火のオーブ を てにいれた！<0>\n",
+    "text_en": "<31744>Obtained the Fire Orb!<0>\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_030.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「なんかでたドン\n"
+    "text": "どんちゃん「なんかでたドン\n",
+    "text_en": "Don-chan: Something came out da-don\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_040.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "？？？「イタタ… あ…あれれ？！ \nボクはいままで いったいなにを…"
+    "text": "？？？「イタタ… あ…あれれ？！ \nボクはいままで いったいなにを…",
+    "text_en": "???: Ow ow... h-huh!?\nWhat was I even doing just now..."
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_050.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「火をふきながら\nとんだり はねたり していたドン"
+    "text": "どんちゃん「火をふきながら\nとんだり はねたり していたドン",
+    "text_en": "Don-chan: You were breathing fire\nwhile jumping and hopping around da-don"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_060.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "？？？「えええ？！まさか！\nボクにかぎって そんなことあるわけ…"
+    "text": "？？？「えええ？！まさか！\nボクにかぎって そんなことあるわけ…",
+    "text_en": "???: Ehh!? No way!\nThere's no way I would do something like that..."
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_070.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "うわわっ！ あっつ！ ほんとだ！\nまわりが いろいろ もえている！"
+    "text": "うわわっ！ あっつ！ ほんとだ！\nまわりが いろいろ もえている！",
+    "text_en": "Uwaah! Hot! It's true!\nEverything around here is burnt to a crisp!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_080.msb": {
     "type": "dialogue",
     "control_id": 100,
-    "text": "…\n"
+    "text": "…\n",
+    "text_en": "...\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_090.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "コホン！\n"
+    "text": "コホン！\n",
+    "text_en": "Ahem!\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_100.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "ボクは<31744>ラルコ<0>！ お姫さまをまもる\nりっぱなドラゴンだ！ "
+    "text": "ボクは<31744>ラルコ<0>！ お姫さまをまもる\nりっぱなドラゴンだ！ ",
+    "text_en": "I'm <31744>Raruko<0>! A fine dragon\nwho protects Her Highness the princess!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_110.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「ボクは <31744>どんちゃん<0>だドン！ \nりっぱな わだいこだドーーーン！"
+    "text": "どんちゃん「ボクは <31744>どんちゃん<0>だドン！ \nりっぱな わだいこだドーーーン！",
+    "text_en": "Don-chan: I'm <31744>Don-chan<0> da-don!\nA fine taiko drum da-doooon!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_120.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "ラルコ「よーし！\nこれでボクらはトモダチだ！"
+    "text": "ラルコ「よーし！\nこれでボクらはトモダチだ！",
+    "text_en": "Raruko: Alright!\nFrom now on, we're friends!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_130.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "そして …いろいろ もやしてしまったのは\nふたりだけのヒミツだ！"
+    "text": "そして …いろいろ もやしてしまったのは\nふたりだけのヒミツだ！",
+    "text_en": "And... let's keep the fact that I burned\neverything up just between the two of us!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_140.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「わーいだドン！\nトモダチがふえたドーン！"
+    "text": "どんちゃん「わーいだドン！\nトモダチがふえたドーン！",
+    "text_en": "Don-chan: Yay da-don!\nI got another friend da-doon!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_150.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "ラルコ「ん…このオーブは！！\nもしかして お姫さまの声のカケラ！！"
+    "text": "ラルコ「ん…このオーブは！！\nもしかして お姫さまの声のカケラ！！",
+    "text_en": "Raruko: Hm... this orb!!\nCould it be a fragment of Her Highness' voice!!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_160.msb": {
     "type": "dialogue",
     "control_id": 100,
-    "text": "そのとき 火のオーブが光りだした！\n"
+    "text": "そのとき 火のオーブが光りだした！\n",
+    "text_en": "At that moment, the Fire Orb began to glow!\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_170.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "マオウ「チャオーーーーーーーーーーーッ☆☆\n世界でイチバンの人気者がトウ ジョウ ！！"
+    "text": "マオウ「チャオーーーーーーーーーーーッ☆☆\n世界でイチバンの人気者がトウ ジョウ ！！",
+    "text_en": "Maou: Ciaoooooooooo☆☆\nThe world's number one idol makes his entraaance!!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_180.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "ラルコ「！！！ \nおまえは…マオウ！！"
+    "text": "ラルコ「！！！ \nおまえは…マオウ！！",
+    "text_en": "Raruko: !!!\nYou're... Maou!!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_190.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「このひとは\nラルコのトモダチカッ？！"
+    "text": "どんちゃん「このひとは\nラルコのトモダチカッ？！",
+    "text_en": "Don-chan: Is this guy\nyour friend, Raruko cah?!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_200.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "ラルコ「トモダチなんかじゃない！！\nこいつは姫の声をうばった…ワルモノだ！"
+    "text": "ラルコ「トモダチなんかじゃない！！\nこいつは姫の声をうばった…ワルモノだ！",
+    "text_en": "Raruko: He's no friend of mine!!\nHe's the villain who stole the princess' voice!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_210.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "マオウ「ワルモノだなぁんて ヒドーーイ！！\nマオウちゃん ないちゃうよぉ？…グスン(;_;"
+    "text": "マオウ「ワルモノだなぁんて ヒドーーイ！！\nマオウちゃん ないちゃうよぉ？…グスン(;_;",
+    "text_en": "Maou: Calling me a villain, how meaaan!!\nMaou-chan's gonna cry, you know?...*sniffle* (;_;"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_220.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "ラルコ「マオウ！ 姫の声をかえせ！\n"
+    "text": "ラルコ「マオウ！ 姫の声をかえせ！\n",
+    "text_en": "Raruko: Maou! Give back the princess' voice!\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_230.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "マオウ「オッケーーーーーーーィ！！\nお姫さま カモォーーーーーーーン！！(^0^/"
+    "text": "マオウ「オッケーーーーーーーィ！！\nお姫さま カモォーーーーーーーン！！(^0^/",
+    "text_en": "Maou: Okaaaaaaay!!\nYour Highness, come oooooon out!! (^0^/"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_240.msb": {
     "type": "dialogue",
     "control_id": 2,
-    "text": "ソプラノ姫「（ラルコ！！）……く…かはっ…\n（ダメ…やっぱり声がでない！！）"
+    "text": "ソプラノ姫「（ラルコ！！）……く…かはっ…\n（ダメ…やっぱり声がでない！！）",
+    "text_en": "Soprano: (Raruko!!) ...ngh...gah...\n(No good... my voice still won't come out!!)"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_250.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "マオウ「おい なんかいえよ\n"
+    "text": "マオウ「おい なんかいえよ\n",
+    "text_en": "Maou: Hey, say something\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_260.msb": {
     "type": "dialogue",
     "control_id": 2,
-    "text": "ソプラノ姫「……………っ………\n"
+    "text": "ソプラノ姫「……………っ………\n",
+    "text_en": "Soprano: ..................!.........\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_270.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "マオウ「ごっめぇーーーん！\n声をうばったのボクだったぁ☆ テヘッ☆"
+    "text": "マオウ「ごっめぇーーーん！\n声をうばったのボクだったぁ☆ テヘッ☆",
+    "text_en": "Maou: Whoooops, sorry!\nI'm the one who stole her voice ☆ Teehee ☆"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_280.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "お姫さまのかわりに ボクがカイセツするね！\n"
+    "text": "お姫さまのかわりに ボクがカイセツするね！\n",
+    "text_en": "I'll explain in her place instead!\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_290.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "つぎの満月の夜までに\n７つのオーブをあつめてください"
+    "text": "つぎの満月の夜までに\n７つのオーブをあつめてください",
+    "text_en": "Before the next full moon,\nplease gather all seven orbs"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_300.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "そうすれば 姫の声はもとにもどります！\n"
+    "text": "そうすれば 姫の声はもとにもどります！\n",
+    "text_en": "Do that, and the princess' voice will return to normal!\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_310.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "た・だ・し！…できなかったら \nお姫さまはこの世から きえてしまいます！ "
+    "text": "た・だ・し！…できなかったら \nお姫さまはこの世から きえてしまいます！ ",
+    "text_en": "B-u-t! ...if you fail,\nHer Highness will vanish from this world!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_320.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "きゃーーー！ コワイ！\n"
+    "text": "きゃーーー！ コワイ！\n",
+    "text_en": "Kyaaaa! So scary!\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_330.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "そして…ななななーんと！\nオーブのもちぬしは ボクのマリョクで"
+    "text": "そして…ななななーんと！\nオーブのもちぬしは ボクのマリョクで",
+    "text_en": "And... w-w-w-what's more!\nThanks to my magic, the orbs' owners have"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_340.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "みーーんな マモノに\nなってしまったようです！"
+    "text": "みーーんな マモノに\nなってしまったようです！",
+    "text_en": "aaall turned into\nmonsters, it seems!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_350.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "だれかさんみたいに いきなり\nおそいかかってくるかもーーー☆"
+    "text": "だれかさんみたいに いきなり\nおそいかかってくるかもーーー☆",
+    "text_en": "Just like a certain someone,\nthey might suddenly attack you outta nowhere☆"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_360.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "ラルコ「ぐぅううう！ マオウめーっ！！\n"
+    "text": "ラルコ「ぐぅううう！ マオウめーっ！！\n",
+    "text_en": "Raruko: Grrrrr! Curse you, Maou!!\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_370.msb": {
     "type": "dialogue",
     "control_id": 2,
-    "text": "ソプラノ姫「…（ラルコ！きこえる？）\n"
+    "text": "ソプラノ姫「…（ラルコ！きこえる？）\n",
+    "text_en": "Soprano: ...(Raruko! Can you hear me?)\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_380.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "ラルコ「！！（これは…！\n姫の声が心にひびいてくる！）"
+    "text": "ラルコ「！！（これは…！\n姫の声が心にひびいてくる！）",
+    "text_en": "Raruko: !!(This is...!\nHer Highness' voice is echoing in my heart!)"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_390.msb": {
     "type": "dialogue",
     "control_id": 2,
-    "text": "ソプラノ姫「（わたしがプレゼントした\nペンダントにオーブを…）"
+    "text": "ソプラノ姫「（わたしがプレゼントした\nペンダントにオーブを…）",
+    "text_en": "Soprano: (Put the orbs\ninto the pendant I gave you...)"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_400.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "マオウ「…ーーーっと いうわけで！！\nお姫さまのイノチは キミたちしだいだ！"
+    "text": "マオウ「…ーーーっと いうわけで！！\nお姫さまのイノチは キミたちしだいだ！",
+    "text_en": "Maou: ...Aaanyway, that's the deal!!\nHer Highness' life is in your hands now!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_410.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "せいぜい 世界をはいずりまわって\nボクを楽しませてねーー！！"
+    "text": "せいぜい 世界をはいずりまわって\nボクを楽しませてねーー！！",
+    "text_en": "Go ahead and crawl all over the world,\nand do your best to entertain me, okaaay!!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_420.msb": {
     "type": "dialogue",
     "control_id": 3,
-    "text": "チャオッ☆☆\n"
+    "text": "チャオッ☆☆\n",
+    "text_en": "Ciao☆☆\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_430.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「きえてしまったドン\n"
+    "text": "どんちゃん「きえてしまったドン\n",
+    "text_en": "Don-chan: He disappeared da-don\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_440.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "ラルコ「姫さま… かならず…\nかならずボクが たすけだします！"
+    "text": "ラルコ「姫さま… かならず…\nかならずボクが たすけだします！",
+    "text_en": "Raruko: Your Highness... I promise...\nI promise I will save you!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_450.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "ラルコ「…ペンダント！ そうだ！\nペンダントにオーブを… あれ？"
+    "text": "ラルコ「…ペンダント！ そうだ！\nペンダントにオーブを… あれ？",
+    "text_en": "Raruko: ...The pendant! That's right!\nPut the orb into the pendant... huh?"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_460.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "ペンダントがない！ うわぁああん！\nどうしよう！お姫さまからもらったタイセツな…"
+    "text": "ペンダントがない！ うわぁああん！\nどうしよう！お姫さまからもらったタイセツな…",
+    "text_en": "The pendant's gone! Waaaaahh!\nWhat do I do! The precious one Her Highness gave me..."
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_470.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「これカッ！？\n"
+    "text": "どんちゃん「これカッ！？\n",
+    "text_en": "Don-chan: You mean this cah!?\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_480.msb": {
     "type": "dialogue",
     "control_id": 40,
-    "text": "ラルコ「それダッ！！\n"
+    "text": "ラルコ「それダッ！！\n",
+    "text_en": "Raruko: That's the one!!\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_490.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "さっそくオーブをかざしてみよう\n"
+    "text": "さっそくオーブをかざしてみよう\n",
+    "text_en": "Let's try holding up the orb right away\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_500.msb": {
     "type": "dialogue",
     "control_id": 100,
-    "text": "<31744>火の必殺技「はっちゃけファイアー」が\nつかえるようになった！"
+    "text": "<31744>火の必殺技「はっちゃけファイアー」が\nつかえるようになった！",
+    "text_en": "<31744>You can now use the Fire special\n\"Spraying Fire\"!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_510.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「スゲェ\n"
+    "text": "ラルコ「スゲェ\n",
+    "text_en": "Raruko: Awesome\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_514.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "「はっちゃけファイアー」は\n火で もえそうな敵に よくきくよ"
+    "text": "「はっちゃけファイアー」は\n火で もえそうな敵に よくきくよ",
+    "text_en": "\"Spraying Fire\" works great\nagainst enemies that look flammable"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_516.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ぎゃくに はじめから もえてる敵には\nぜんぜん きかないから ちゅういだ"
+    "text": "ぎゃくに はじめから もえてる敵には\nぜんぜん きかないから ちゅういだ",
+    "text_en": "But it has zero effect on enemies\nthat are already on fire, so watch out"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_520.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「オーブが また光りだしたドン！\n"
+    "text": "どんちゃん「オーブが また光りだしたドン！\n",
+    "text_en": "Don-chan: The orb's glowing again da-don!\n"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_530.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「これは…このさきにある<31744>ホゥストの森<0>\nきっとそこに オーブがあるんだ…！"
+    "text": "ラルコ「これは…このさきにある<31744>ホゥストの森<0>\nきっとそこに オーブがあるんだ…！",
+    "text_en": "Raruko: This is... up ahead there's <31744>Houst Forest<0>\nThe orb has to be there...!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_540.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「なんだか\nブキミなところだドン"
+    "text": "どんちゃん「なんだか\nブキミなところだドン",
+    "text_en": "Don-chan: It looks kinda\ncreepy da-don"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_550.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「たしかに… ち…ちょっとだけ\nこわそうなところだな…"
+    "text": "ラルコ「たしかに… ち…ちょっとだけ\nこわそうなところだな…",
+    "text_en": "Raruko: True... i-it does look\na little scary..."
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_560.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "そうだ！ トクベツにどんちゃんを\nボクのおともに つれていってやろう！"
+    "text": "そうだ！ トクベツにどんちゃんを\nボクのおともに つれていってやろう！",
+    "text_en": "That's it! I'll make an exception\nand bring you along with me, Don-chan!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_570.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「わーーい！\nやったドーン！ トクベツだドーン！"
+    "text": "どんちゃん「わーーい！\nやったドーン！ トクベツだドーン！",
+    "text_en": "Don-chan: Yaaay!\nAll right da-don! I'm special da-don!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_580.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "ラルコといっしょに\n<31744>ホゥストの森<0>いっくドーン！"
+    "text": "ラルコといっしょに\n<31744>ホゥストの森<0>いっくドーン！",
+    "text_en": "Going to <31744>Houst Forest<0>\nwith Raruko da-doon!"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_590.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「…ほっ！ \n（よかった！）"
+    "text": "ラルコ「…ほっ！ \n（よかった！）",
+    "text_en": "Raruko: ...*sigh*\n(Phew, good!)"
   },
   "S01_AREA1/S01_A01_WIN/S01_A01_WIN_600.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "よーーし！ しゅっぱーつ！\n"
+    "text": "よーーし！ しゅっぱーつ！\n",
+    "text_en": "Alright! Let's head out!\n"
   },
   "S01_AREA1/S01_A01_WIN_A/MSG_Info.msb": {
     "type": "info_table",
@@ -491,12 +565,14 @@
   "S01_AREA1/S01_A02_FIRST/S01_A02_FIRST_010.msb": {
     "type": "dialogue",
     "control_id": 25,
-    "text": "ブー子「しくしく…しくしく…\n"
+    "text": "ブー子「しくしく…しくしく…\n",
+    "text_en": "Buuko: *sniffle* ...*sniffle*...\n"
   },
   "S01_AREA1/S01_A02_FIRST/S01_A02_FIRST_020.msb": {
     "type": "dialogue",
     "control_id": 25,
-    "text": "だれが オラの かなしいキモヂ\nおもすれぇ演奏で いやしてくれねべかー"
+    "text": "だれが オラの かなしいキモヂ\nおもすれぇ演奏で いやしてくれねべかー",
+    "text_en": "Won't somebody soothe my\nsad heart with a rousing performance?"
   },
   "S01_AREA1/S01_A02_RETRY/MSG_Info.msb": {
     "type": "info_table",
@@ -519,42 +595,50 @@
   "S01_AREA1/S01_A02_WIN/S01_A02_WIN_010.msb": {
     "type": "dialogue",
     "control_id": 25,
-    "text": "ブー子「あんがとう！\nすんげぇ キモヂ ラグんなっだよ"
+    "text": "ブー子「あんがとう！\nすんげぇ キモヂ ラグんなっだよ",
+    "text_en": "Buuko: Thank ya!\nThat sure did lift my spirits"
   },
   "S01_AREA1/S01_A02_WIN/S01_A02_WIN_020.msb": {
     "type": "dialogue",
     "control_id": 25,
-    "text": "カレシのブヒオが森のおくから\nもどってこねんだぁ…"
+    "text": "カレシのブヒオが森のおくから\nもどってこねんだぁ…",
+    "text_en": "My boyfriend Buhio still hasn't\ncome back from deep in the forest..."
   },
   "S01_AREA1/S01_A02_WIN/S01_A02_WIN_030.msb": {
     "type": "dialogue",
     "control_id": 25,
-    "text": "だれか わるぃやつに\nつかまってるにちげえねえ！"
+    "text": "だれか わるぃやつに\nつかまってるにちげえねえ！",
+    "text_en": "He must've been caught\nby some bad guy, I just know it!"
   },
   "S01_AREA1/S01_A02_WIN/S01_A02_WIN_040.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「そんなことをするなんて\nなんてヒドいやつだ！ ゆるせない！"
+    "text": "ラルコ「そんなことをするなんて\nなんてヒドいやつだ！ ゆるせない！",
+    "text_en": "Raruko: Doing something like that,\nwhat a horrible person! Unforgivable!"
   },
   "S01_AREA1/S01_A02_WIN/S01_A02_WIN_050.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "このボクが せいばいしてやる！！\n"
+    "text": "このボクが せいばいしてやる！！\n",
+    "text_en": "I'll bring him to justice myself!!\n"
   },
   "S01_AREA1/S01_A02_WIN/S01_A02_WIN_060.msb": {
     "type": "dialogue",
     "control_id": 25,
-    "text": "ブー子「あい～！あんがとな～！\nんだら もすブヒオさ 見っげたら"
+    "text": "ブー子「あい～！あんがとな～！\nんだら もすブヒオさ 見っげたら",
+    "text_en": "Buuko: Aight~! Thank ya~!\nSo if ya find Buhio,"
   },
   "S01_AREA1/S01_A02_WIN/S01_A02_WIN_070.msb": {
     "type": "dialogue",
     "control_id": 25,
-    "text": "ブー子が ずっどまっどる\nそう つたえでけろ"
+    "text": "ブー子が ずっどまっどる\nそう つたえでけろ",
+    "text_en": "tell him Buuko's\nbeen waitin' for him the whole time"
   },
   "S01_AREA1/S01_A02_WIN/S01_A02_WIN_080.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「わかったドーン！\nボクにまかせるドーン！"
+    "text": "どんちゃん「わかったドーン！\nボクにまかせるドーン！",
+    "text_en": "Don-chan: Got it da-doon!\nLeave it to me da-doon!"
   },
   "S01_AREA1/S01_A02_WIN_A/MSG_Info.msb": {
     "type": "info_table",
@@ -607,27 +691,32 @@
   "S01_AREA1/S01_A03_FIRST/S01_A03_FIRST_010.msb": {
     "type": "dialogue",
     "control_id": 51,
-    "text": "ごぶがりゴブリン「おまえら なにものだ？\nじゃまするやつは やっつけてやる！"
+    "text": "ごぶがりゴブリン「おまえら なにものだ？\nじゃまするやつは やっつけてやる！",
+    "text_en": "Crewcut Goblin: Who are you two?\nAnyone in my way is getting beaten down!"
   },
   "S01_AREA1/S01_A03_FIRST/S01_A03_FIRST_020.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「わわっ 敵が あらわれたドン！\nどうすれば よいカッ？"
+    "text": "どんちゃん「わわっ 敵が あらわれたドン！\nどうすれば よいカッ？",
+    "text_en": "Don-chan: Wah, an enemy showed up da-don!\nWhat do we do cah?"
   },
   "S01_AREA1/S01_A03_FIRST/S01_A03_FIRST_030.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「だいじょうぶ！ ボクと たたかった\nように 音符をうちかえして こうげきするんだ！"
+    "text": "ラルコ「だいじょうぶ！ ボクと たたかった\nように 音符をうちかえして こうげきするんだ！",
+    "text_en": "Raruko: It's okay! Just like when you fought\nme, hit the notes back to attack!"
   },
   "S01_AREA1/S01_A03_FIRST/S01_A03_FIRST_040.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "でも バクダン音符には 気をつけて！\nさわると ダメージを うけちゃうよ"
+    "text": "でも バクダン音符には 気をつけて！\nさわると ダメージを うけちゃうよ",
+    "text_en": "But watch out for the Bomb notes!\nTouch one and you'll take damage"
   },
   "S01_AREA1/S01_A03_FIRST/S01_A03_FIRST_050.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "さぁ どんちゃん\nボクに オーブを そうびして！"
+    "text": "さぁ どんちゃん\nボクに オーブを そうびして！",
+    "text_en": "Now, Don-chan,\nequip me with an orb!"
   },
   "S01_AREA1/S01_A03_RETRY/MSG_Info.msb": {
     "type": "info_table",
@@ -665,12 +754,14 @@
   "S01_AREA1/S01_A03_WIN/S01_A03_WIN_010.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「やったドーン！ 勝ったドーン！\n"
+    "text": "どんちゃん「やったドーン！ 勝ったドーン！\n",
+    "text_en": "Don-chan: Yay da-doon! We won da-doon!\n"
   },
   "S01_AREA1/S01_A03_WIN/S01_A03_WIN_020.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「イイね！ どんちゃん ！\nどんどん すすもう"
+    "text": "ラルコ「イイね！ どんちゃん ！\nどんどん すすもう",
+    "text_en": "Raruko: Nice one, Don-chan!\nLet's keep pushing forward"
   },
   "S01_AREA1/S01_A03_WIN_A/MSG_Info.msb": {
     "type": "info_table",
@@ -693,107 +784,128 @@
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_010.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "こだま「どんー！！ あんた\nなんでこんなとこに おるん？"
+    "text": "こだま「どんー！！ あんた\nなんでこんなとこに おるん？",
+    "text_en": "Kodama: Don~!! What in the\nworld are you doing here?"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_020.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「こだまだドン！\n"
+    "text": "どんちゃん「こだまだドン！\n",
+    "text_en": "Don-chan: It's Kodama da-don!\n"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_030.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「むむ！どんちゃんの\nおともだちですか？ キリッ！"
+    "text": "ラルコ「むむ！どんちゃんの\nおともだちですか？ キリッ！",
+    "text_en": "Raruko: Mm! Is this a\nfriend of yours, Don-chan? Hmph!"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_040.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "こだま「や～ん♪\nかわいいトカゲやねぇ！"
+    "text": "こだま「や～ん♪\nかわいいトカゲやねぇ！",
+    "text_en": "Kodama: Ooh~♪\nWhat a cute little lizard!"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_050.msb": {
     "type": "dialogue",
     "control_id": 100,
-    "text": "ラルコ「ト\n"
+    "text": "ラルコ「ト\n",
+    "text_en": "Raruko: L-\n"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_060.msb": {
     "type": "dialogue",
     "control_id": 100,
-    "text": "ト…トカゲ…\n"
+    "text": "ト…トカゲ…\n",
+    "text_en": "L-lizard......\n"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_070.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "こだま「どん～ うち\nまたやってしもうたんよ～"
+    "text": "こだま「どん～ うち\nまたやってしもうたんよ～",
+    "text_en": "Kodama: Don~ I went and\nmessed up again~"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_080.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "大魂さまの たいせつな\n宝箱の中にあった秘宝を"
+    "text": "大魂さまの たいせつな\n宝箱の中にあった秘宝を",
+    "text_en": "The treasures that were inside\nthe Great Soul's precious treasure box"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_090.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "まちがえて このせかいに\nばらまいてしもうてん"
+    "text": "まちがえて このせかいに\nばらまいてしもうてん",
+    "text_en": "got scattered all over\nthis world by mistake"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_100.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "おねがいっ！\nあつめるの てつだって♪"
+    "text": "おねがいっ！\nあつめるの てつだって♪",
+    "text_en": "Please!\nHelp me gather them up ♪"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_110.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「わかったドン\n秘宝いっぱいあつめるドーン！"
+    "text": "どんちゃん「わかったドン\n秘宝いっぱいあつめるドーン！",
+    "text_en": "Don-chan: Got it da-don\nI'll collect lots of treasures da-doon!"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_120.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "こだま「たすかるわぁ～\nこれを うけとって！"
+    "text": "こだま「たすかるわぁ～\nこれを うけとって！",
+    "text_en": "Kodama: You're a lifesaver~\nHere, take this!"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_130.msb": {
     "type": "dialogue",
     "control_id": 100,
-    "text": "<31744>秘宝リスト を てにいれた！\n"
+    "text": "<31744>秘宝リスト を てにいれた！\n",
+    "text_en": "<31744>Obtained the Treasure List!<0>\n"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_140.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "演奏中に 条件をみたせば\n秘宝があらわれるねんけど"
+    "text": "演奏中に 条件をみたせば\n秘宝があらわれるねんけど",
+    "text_en": "If you meet the conditions during\na performance, a treasure will appear"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_150.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "このリストには そのヒントが\n書いてあるみたいやねん"
+    "text": "このリストには そのヒントが\n書いてあるみたいやねん",
+    "text_en": "and it looks like this list\nhas hints written on it"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_160.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「すごいドン！\n楽しそうだドーン！"
+    "text": "どんちゃん「すごいドン！\n楽しそうだドーン！",
+    "text_en": "Don-chan: Amazing da-don!\nThat sounds fun da-doon!"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_170.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "こだま「このちかくにも\nあるみたいやから "
+    "text": "こだま「このちかくにも\nあるみたいやから ",
+    "text_en": "Kodama: Seems there's one\nnearby too, so"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_180.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "さっそく演奏してみよっ♪\n"
+    "text": "さっそく演奏してみよっ♪\n",
+    "text_en": "let's give a performance right away ♪\n"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_190.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "えーっとヒントは…\n"
+    "text": "えーっとヒントは…\n",
+    "text_en": "Um, the hint is...\n"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_200.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "<31744>「こだまのナワバリで\nあたえられたお題にこたえよ。」"
+    "text": "<31744>「こだまのナワバリで\nあたえられたお題にこたえよ。」",
+    "text_en": "<31744>\"Answer the challenge given\nto you in Kodama's Turf.\"<0>"
   },
   "S01_AREA1/S01_A04_FIRST/S01_A04_FIRST_210.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「よーし\n秘宝だすドーン！"
+    "text": "どんちゃん「よーし\n秘宝だすドーン！",
+    "text_en": "Don-chan: Alright\nlet's get that treasure da-doon!"
   },
   "S01_AREA1/S01_A04_RETRY/MSG_Info.msb": {
     "type": "info_table",
@@ -831,32 +943,38 @@
   "S01_AREA1/S01_A04_WIN/S01_A04_WIN_010.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「秘宝ゲットだドーン！\n"
+    "text": "どんちゃん「秘宝ゲットだドーン！\n",
+    "text_en": "Don-chan: Got the treasure da-doon!\n"
   },
   "S01_AREA1/S01_A04_WIN/S01_A04_WIN_020.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "こだま「きゃ～！！ さすがやわぁ\nあいかわらず すごいねぇ どん！"
+    "text": "こだま「きゃ～！！ さすがやわぁ\nあいかわらず すごいねぇ どん！",
+    "text_en": "Kodama: Kyaa~!! As expected\nyou're amazing as ever, Don!"
   },
   "S01_AREA1/S01_A04_WIN/S01_A04_WIN_030.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "トカゲちゃんも\nなかなか やるやないの～"
+    "text": "トカゲちゃんも\nなかなか やるやないの～",
+    "text_en": "Little lizard, you're\npretty good too~"
   },
   "S01_AREA1/S01_A04_WIN/S01_A04_WIN_040.msb": {
     "type": "dialogue",
     "control_id": 14,
-    "text": "ほな このちょうしで\nたのんだで♪"
+    "text": "ほな このちょうしで\nたのんだで♪",
+    "text_en": "Well then, keep it up\nlike that, okay ♪"
   },
   "S01_AREA1/S01_A04_WIN/S01_A04_WIN_050.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「よーし\n秘宝いっぱいあつめるドーン！"
+    "text": "どんちゃん「よーし\n秘宝いっぱいあつめるドーン！",
+    "text_en": "Don-chan: Alright\nI'll gather lots of treasure da-doon!"
   },
   "S01_AREA1/S01_A04_WIN/S01_A04_WIN_060.msb": {
     "type": "dialogue",
     "control_id": 100,
-    "text": "ラルコ「ト…トカゲ……\n"
+    "text": "ラルコ「ト…トカゲ……\n",
+    "text_en": "Raruko: L-lizard........\n"
   },
   "S01_AREA1/S01_A04_WIN_A/MSG_Info.msb": {
     "type": "info_table",
@@ -899,17 +1017,20 @@
   "S01_AREA1/S01_A05_FIRST/S01_A05_FIRST_005.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「はわわわっっっ\nまたでたドーーーーン！"
+    "text": "どんちゃん「はわわわっっっ\nまたでたドーーーーン！",
+    "text_en": "Don-chan: Wh-wh-wh-what\nit's here again da-doooon!"
   },
   "S01_AREA1/S01_A05_FIRST/S01_A05_FIRST_010.msb": {
     "type": "dialogue",
     "control_id": 52,
-    "text": "ポイズンフラワー「ああ いとしのアシュモさま！\nあなたの美しさは あたしにとってドクですわっ"
+    "text": "ポイズンフラワー「ああ いとしのアシュモさま！\nあなたの美しさは あたしにとってドクですわっ",
+    "text_en": "Poison Flower: Ohh, my darling Ashumo!\nYour beauty is like poison to me!"
   },
   "S01_AREA1/S01_A05_FIRST/S01_A05_FIRST_020.msb": {
     "type": "dialogue",
     "control_id": 52,
-    "text": "これからも…ずっとこの森を しはいする\nちょうイケメンでいてくださいね…ポっ"
+    "text": "これからも…ずっとこの森を しはいする\nちょうイケメンでいてくださいね…ポっ",
+    "text_en": "Please, forever and always,\nstay the super-handsome ruler of this forest...♡"
   },
   "S01_AREA1/S01_A05_FIRST/S01_A05_FIRST_030.msb": {
     "type": "dialogue",
@@ -924,12 +1045,14 @@
   "S01_AREA1/S01_A05_FIRST/S01_A05_FIRST_050.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「この森はみんなのものだ！\nしはいなんて ゆるさないぞ！"
+    "text": "ラルコ「この森はみんなのものだ！\nしはいなんて ゆるさないぞ！",
+    "text_en": "Raruko: This forest belongs to everyone!\nI won't allow anyone to rule over it!"
   },
   "S01_AREA1/S01_A05_FIRST/S01_A05_FIRST_060.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "どんちゃん! さっきのちょうしで\nしりぞけるよ！"
+    "text": "どんちゃん! さっきのちょうしで\nしりぞけるよ！",
+    "text_en": "Don-chan! Let's repel it\njust like we did before!"
   },
   "S01_AREA1/S01_A05_RETRY/MSG_Info.msb": {
     "type": "info_table",
@@ -957,17 +1080,20 @@
   "S01_AREA1/S01_A05_WIN/S01_A05_WIN_010.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「やったドーン！\nまたまた 勝ったドーン！"
+    "text": "どんちゃん「やったドーン！\nまたまた 勝ったドーン！",
+    "text_en": "Don-chan: Yay da-doon!\nWe won again da-doon!"
   },
   "S01_AREA1/S01_A05_WIN/S01_A05_WIN_020.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「ブラボー！ どんちゃん！\n"
+    "text": "ラルコ「ブラボー！ どんちゃん！\n",
+    "text_en": "Raruko: Bravo! Don-chan!\n"
   },
   "S01_AREA1/S01_A05_WIN/S01_A05_WIN_030.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "それにしても アシュモって\nどんなやつなんだろう…"
+    "text": "それにしても アシュモって\nどんなやつなんだろう…",
+    "text_en": "Still, I wonder what kind\nof guy this Ashumo is..."
   },
   "S01_AREA1/S01_A05_WIN_A/MSG_Info.msb": {
     "type": "info_table",
@@ -995,17 +1121,20 @@
   "S01_AREA1/S01_A06_FIRST/S01_A06_FIRST_010.msb": {
     "type": "dialogue",
     "control_id": 53,
-    "text": "ベビーマッチ「しゅぼぼぼぼ\nおまえらなんか もやしてやるぼー！"
+    "text": "ベビーマッチ「しゅぼぼぼぼ\nおまえらなんか もやしてやるぼー！",
+    "text_en": "Baby Match: *sizzle sizzle*\nI'm gonna burn you two up-bo!"
   },
   "S01_AREA1/S01_A06_FIRST/S01_A06_FIRST_020.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「よーっし！ もうこわくないドン！\nいっくドーーーーン！"
+    "text": "どんちゃん「よーっし！ もうこわくないドン！\nいっくドーーーーン！",
+    "text_en": "Don-chan: Alright! I'm not scared anymore da-don!\nHere we gooo da-doooon!"
   },
   "S01_AREA1/S01_A06_FIRST/S01_A06_FIRST_030.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「どんちゃん がんばって！\n"
+    "text": "ラルコ「どんちゃん がんばって！\n",
+    "text_en": "Raruko: Do your best, Don-chan!\n"
   },
   "S01_AREA1/S01_A06_RETRY/MSG_Info.msb": {
     "type": "info_table",
@@ -1033,12 +1162,14 @@
   "S01_AREA1/S01_A06_WIN/S01_A06_WIN_010.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「わーいだドーン！\nバトルの コツを つかんだドーン！"
+    "text": "どんちゃん「わーいだドーン！\nバトルの コツを つかんだドーン！",
+    "text_en": "Don-chan: Yaaay da-doon!\nI've got the hang of battling da-doon!"
   },
   "S01_AREA1/S01_A06_WIN/S01_A06_WIN_020.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「エクセレント！ どんちゃん ！\nさぁ もっと おくに すすむよっ"
+    "text": "ラルコ「エクセレント！ どんちゃん ！\nさぁ もっと おくに すすむよっ",
+    "text_en": "Raruko: Excellent! Don-chan!\nNow, let's push further inside!"
   },
   "S01_AREA1/S01_A06_WIN_A/MSG_Info.msb": {
     "type": "info_table",
@@ -1061,22 +1192,26 @@
   "S01_AREA1/S01_A07_FIRST/S01_A07_FIRST_010.msb": {
     "type": "dialogue",
     "control_id": 33,
-    "text": "やつしか「ドンドコド～ ドンドコド～\nドンドコ…　ドドド… ド…"
+    "text": "やつしか「ドンドコド～ ドンドコド～\nドンドコ…　ドドド… ド…",
+    "text_en": "Yatsushika: Don-doko-do~ Don-doko-do~\nDon-doko... Do-do-do... Do..."
   },
   "S01_AREA1/S01_A07_FIRST/S01_A07_FIRST_020.msb": {
     "type": "dialogue",
     "control_id": 33,
-    "text": "キョーン！ なんど演奏しても\nコンボが うまくつながらないキョン！"
+    "text": "キョーン！ なんど演奏しても\nコンボが うまくつながらないキョン！",
+    "text_en": "Kyoon! No matter how many times I play,\nI can't keep the combo going-kyon!"
   },
   "S01_AREA1/S01_A07_FIRST/S01_A07_FIRST_030.msb": {
     "type": "dialogue",
     "control_id": 33,
-    "text": "これじゃ あのイケメンさまに\nよろこんでもらえないキョン…"
+    "text": "これじゃ あのイケメンさまに\nよろこんでもらえないキョン…",
+    "text_en": "At this rate, that handsome man\nwon't be pleased with me-kyon..."
   },
   "S01_AREA1/S01_A07_FIRST/S01_A07_FIRST_040.msb": {
     "type": "dialogue",
     "control_id": 33,
-    "text": "わたしに お手本を みせて！\n"
+    "text": "わたしに お手本を みせて！\n",
+    "text_en": "Show me how it's done!\n"
   },
   "S01_AREA1/S01_A07_RETRY/MSG_Info.msb": {
     "type": "info_table",
@@ -1109,17 +1244,20 @@
   "S01_AREA1/S01_A07_WIN/S01_A07_WIN_010.msb": {
     "type": "dialogue",
     "control_id": 33,
-    "text": "やつしか「キョ～ン！ キョーン！\nステキなコンボを ありがとう！"
+    "text": "やつしか「キョ～ン！ キョーン！\nステキなコンボを ありがとう！",
+    "text_en": "Yatsushika: Kyoon~! Kyoon!\nThank you for the wonderful combo!"
   },
   "S01_AREA1/S01_A07_WIN/S01_A07_WIN_020.msb": {
     "type": "dialogue",
     "control_id": 33,
-    "text": "これで あのイケメンさまに\nよろこんでもらえるキョン！"
+    "text": "これで あのイケメンさまに\nよろこんでもらえるキョン！",
+    "text_en": "Now that handsome man\nwill surely be pleased with me-kyon!"
   },
   "S01_AREA1/S01_A07_WIN/S01_A07_WIN_030.msb": {
     "type": "dialogue",
     "control_id": 33,
-    "text": "イケメンさまは 森のおくに いるキョン\n会いに いくと いいキョン！"
+    "text": "イケメンさまは 森のおくに いるキョン\n会いに いくと いいキョン！",
+    "text_en": "That handsome man is deep in the forest-kyon\nYou should go meet him-kyon!"
   },
   "S01_AREA1/S01_A07_WIN_A/MSG_Info.msb": {
     "type": "info_table",
@@ -1166,47 +1304,56 @@
   "S01_AREA1/S01_A08_FIRST/S01_A08_FIRST_010.msb": {
     "type": "dialogue",
     "control_id": 4,
-    "text": "アシュモ「ハロー！ものすごくカッコイイ\nミーに キミたちもメロメロなのかい？"
+    "text": "アシュモ「ハロー！ものすごくカッコイイ\nミーに キミたちもメロメロなのかい？",
+    "text_en": "Ashumo: Hello! Are you two also\nswooning over incredibly cool me?"
   },
   "S01_AREA1/S01_A08_FIRST/S01_A08_FIRST_020.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「むむ！ なんてすごいイケメンだ！\nあれがアシュモに ちがいない！"
+    "text": "ラルコ「むむ！ なんてすごいイケメンだ！\nあれがアシュモに ちがいない！",
+    "text_en": "Raruko: Mm! What an incredibly handsome guy!\nThat has to be Ashumo!"
   },
   "S01_AREA1/S01_A08_FIRST/S01_A08_FIRST_030.msb": {
     "type": "dialogue",
     "control_id": 4,
-    "text": "アシュモ「そのとぉーーりっ！！\nミーこそ イバラのきこうし アシュモ！"
+    "text": "アシュモ「そのとぉーーりっ！！\nミーこそ イバラのきこうし アシュモ！",
+    "text_en": "Ashumo: That's riiiight!!\nI am the Thorn Prince himself, Ashumo!"
   },
   "S01_AREA1/S01_A08_FIRST/S01_A08_FIRST_040.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「あっ！火のオーブが\nきょうめい している！"
+    "text": "ラルコ「あっ！火のオーブが\nきょうめい している！",
+    "text_en": "Raruko: Ah! The Fire Orb is\nresonating with something!"
   },
   "S01_AREA1/S01_A08_FIRST/S01_A08_FIRST_050.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "オーブをもっているのはおまえだな！\n"
+    "text": "オーブをもっているのはおまえだな！\n",
+    "text_en": "You're the one who has the orb, aren't you!\n"
   },
   "S01_AREA1/S01_A08_FIRST/S01_A08_FIRST_060.msb": {
     "type": "dialogue",
     "control_id": 4,
-    "text": "アシュモ「オーブってナンデスカー？\nミーはシリマセーン！"
+    "text": "アシュモ「オーブってナンデスカー？\nミーはシリマセーン！",
+    "text_en": "Ashumo: What is an \"orb\"?\nI have no idea what you mean!"
   },
   "S01_AREA1/S01_A08_FIRST/S01_A08_FIRST_070.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「しらないフリはよくないドン！\nつかまえてるブヒオも かえすドーン！"
+    "text": "どんちゃん「しらないフリはよくないドン！\nつかまえてるブヒオも かえすドーン！",
+    "text_en": "Don-chan: Playing dumb isn't nice da-don!\nGive back Buhio, who you're holding captive, too da-doon!"
   },
   "S01_AREA1/S01_A08_FIRST/S01_A08_FIRST_080.msb": {
     "type": "dialogue",
     "control_id": 4,
-    "text": "アシュモ「オーノー！！ ブ・ヒ・オ！\nナゼそのナマエをしっているデスカー！？"
+    "text": "アシュモ「オーノー！！ ブ・ヒ・オ！\nナゼそのナマエをしっているデスカー！？",
+    "text_en": "Ashumo: Oh nooo!! Bu-hi-o!\nHow do you know that name!?"
   },
   "S01_AREA1/S01_A08_FIRST/S01_A08_FIRST_090.msb": {
     "type": "dialogue",
     "control_id": 4,
-    "text": "ユーたちには コノヨから\nキエテ モライマース！！"
+    "text": "ユーたちには コノヨから\nキエテ モライマース！！",
+    "text_en": "You two are going to\ndisappear from this world!!"
   },
   "S01_AREA1/S01_A08_RETRY/MSG_Info.msb": {
     "type": "info_table",
@@ -1224,157 +1371,188 @@
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_010.msb": {
     "type": "dialogue",
     "control_id": 100,
-    "text": "ボワン\n"
+    "text": "ボワン\n",
+    "text_en": "*poof*\n"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_020.msb": {
     "type": "dialogue",
     "control_id": 26,
-    "text": "ブヒオ「あいだだだ…\nあーあぁ もどのブタさ もどっちまった"
+    "text": "ブヒオ「あいだだだ…\nあーあぁ もどのブタさ もどっちまった",
+    "text_en": "Buhio: Owowowow...\nAah, I'm back to being a pig again"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_030.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「…もしかして\nキミがブヒオかい？"
+    "text": "ラルコ「…もしかして\nキミがブヒオかい？",
+    "text_en": "Raruko: ...Could it be\nyou're Buhio?"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_040.msb": {
     "type": "dialogue",
     "control_id": 26,
-    "text": "ブヒオ「んだ\n"
+    "text": "ブヒオ「んだ\n",
+    "text_en": "Buhio: Yep\n"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_050.msb": {
     "type": "dialogue",
     "control_id": 26,
-    "text": "森のおくに キノコさ とりにいっだら\nオーブさ みっげで…"
+    "text": "森のおくに キノコさ とりにいっだら\nオーブさ みっげで…",
+    "text_en": "I went deep in the forest to pick mushrooms\nand found this orb thing..."
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_060.msb": {
     "type": "dialogue",
     "control_id": 26,
-    "text": "きぃついだら イケメンになってただ\n"
+    "text": "きぃついだら イケメンになってただ\n",
+    "text_en": "and when I came to, I'd turned handsome\n"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_070.msb": {
     "type": "dialogue",
     "control_id": 26,
-    "text": "…んだども…あのしゃべりがだで話すの…\nもう…つかれだ…"
+    "text": "…んだども…あのしゃべりがだで話すの…\nもう…つかれだ…",
+    "text_en": "...but... talkin' like that...\nI'm... so tired..."
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_080.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「へんなしゃべりかたは\nしょうたいを かくすためだったのか！"
+    "text": "ラルコ「へんなしゃべりかたは\nしょうたいを かくすためだったのか！",
+    "text_en": "Raruko: So that weird way of talking\nwas to hide your true self!"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_090.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「森の入り口で\nブー子が ずっと まっているドン"
+    "text": "どんちゃん「森の入り口で\nブー子が ずっと まっているドン",
+    "text_en": "Don-chan: Buuko's been waiting\nat the forest entrance this whole time da-don"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_100.msb": {
     "type": "dialogue",
     "control_id": 26,
-    "text": "ブヒオ「！！！！ブー子！！\nオラぁ なんてこど やっちまったんだぁ！"
+    "text": "ブヒオ「！！！！ブー子！！\nオラぁ なんてこど やっちまったんだぁ！",
+    "text_en": "Buhio: !!!! Buuko!!\nWhat in the world have I done!!"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_110.msb": {
     "type": "dialogue",
     "control_id": 26,
-    "text": "いますぐ ブー子のとごさいぐだ！\nこれ もらってけろ！ "
+    "text": "いますぐ ブー子のとごさいぐだ！\nこれ もらってけろ！ ",
+    "text_en": "I gotta go to Buuko right now!\nHere, take this!"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_120.msb": {
     "type": "dialogue",
     "control_id": 100,
-    "text": "<31744>木のオーブ を てにいれた！\n"
+    "text": "<31744>木のオーブ を てにいれた！\n",
+    "text_en": "<31744>Obtained the Leaf Orb!<0>\n"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_130.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「いってしまったドン\n"
+    "text": "どんちゃん「いってしまったドン\n",
+    "text_en": "Don-chan: He's gone da-don\n"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_140.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「よーし どんちゃん\n木のオーブをかざしてみよう"
+    "text": "ラルコ「よーし どんちゃん\n木のオーブをかざしてみよう",
+    "text_en": "Raruko: Alright, Don-chan,\nlet's try holding up the Leaf Orb"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_150.msb": {
     "type": "dialogue",
     "control_id": 100,
-    "text": "<31744>木の必殺技「すけすけオプション」が\nつかえるようになった！"
+    "text": "<31744>木の必殺技「すけすけオプション」が\nつかえるようになった！",
+    "text_en": "<31744>You can now use the Leaf special\n\"Dispel Option\"!"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_160.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「むねが ときめいた\n"
+    "text": "ラルコ「むねが ときめいた\n",
+    "text_en": "Raruko: My heart's racing\n"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_164.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "「すけすけオプション」は\n敵の演奏オプションを ちょうけしに するよ"
+    "text": "「すけすけオプション」は\n敵の演奏オプションを ちょうけしに するよ",
+    "text_en": "\"Dispel Option\" cancels out\nall of the enemy's performance modifiers"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_166.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "「ばいそく」で音符がはやくながれる敵や\n「ドロン」で音符がみえない敵につかうといいよ"
+    "text": "「ばいそく」で音符がはやくながれる敵や\n「ドロン」で音符がみえない敵につかうといいよ",
+    "text_en": "Great against enemies using \"Double Speed\" to\nspeed up notes, or \"Hide\" to make notes invisible"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_170.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「またオーブが光ってるドン！\n"
+    "text": "どんちゃん「またオーブが光ってるドン！\n",
+    "text_en": "Don-chan: The orb's glowing again da-don!\n"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_180.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「おお！これは…ジェラス湖だ！！\n"
+    "text": "ラルコ「おお！これは…ジェラス湖だ！！\n",
+    "text_en": "Raruko: Ooh! This is... Jealous Lake!!\n"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_190.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "このみずうみには美しいマモノがいるらしい！\n"
+    "text": "このみずうみには美しいマモノがいるらしい！\n",
+    "text_en": "It's said a beautiful being lives in this lake!\n"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_200.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "たくさんのたびびとが\nひとめ みようと おとずれるらしいよ"
+    "text": "たくさんのたびびとが\nひとめ みようと おとずれるらしいよ",
+    "text_en": "Apparently lots of travelers\nvisit just to catch a glimpse"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_210.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ボ…ボクは お姫さま ひとすじだから\nぜんぜん きょうみ ないけどね！"
+    "text": "ボ…ボクは お姫さま ひとすじだから\nぜんぜん きょうみ ないけどね！",
+    "text_en": "N-not that I'm interested at all,\nsince I only have eyes for the princess!"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_220.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「よこに もうひとつ\nうつっているドン"
+    "text": "どんちゃん「よこに もうひとつ\nうつっているドン",
+    "text_en": "Don-chan: There's another one\nshowing right next to it da-don"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_230.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「これはどうくつ…\nダルァケルの大穴！"
+    "text": "ラルコ「これはどうくつ…\nダルァケルの大穴！",
+    "text_en": "Raruko: This is a cave...\nthe Great Pit of Darakel!"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_240.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "このどうくつに入って でてきたものは\nいないと　いわれている！"
+    "text": "このどうくつに入って でてきたものは\nいないと　いわれている！",
+    "text_en": "It's said that no one who's gone\ninto this cave has ever come back out!"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_250.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "きっと中には おそろしいマモノが\nいるにちがいない…ゴクリ"
+    "text": "きっと中には おそろしいマモノが\nいるにちがいない…ゴクリ",
+    "text_en": "There must be some terrifying\nbeing lurking inside... *gulp*"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_260.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「どっちにいくのカッ？\n"
+    "text": "どんちゃん「どっちにいくのカッ？\n",
+    "text_en": "Don-chan: Which way should we go cah?\n"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_270.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ラルコ「もちろんジェラス湖！ …に\nどんちゃんは いきたいだろうけど"
+    "text": "ラルコ「もちろんジェラス湖！ …に\nどんちゃんは いきたいだろうけど",
+    "text_en": "Raruko: Jealous Lake, of course!\n...that's probably where you want to go, Don-chan,"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_280.msb": {
     "type": "dialogue",
     "control_id": 1,
-    "text": "ボクはどっちでもいいよ！\n"
+    "text": "ボクはどっちでもいいよ！\n",
+    "text_en": "but I'm fine with either one!\n"
   },
   "S01_AREA1/S01_A08_WIN/S01_A08_WIN_290.msb": {
     "type": "dialogue",
     "control_id": 0,
-    "text": "どんちゃん「よーし！あたらしい\nオーブをさがしにいっくどーん！"
+    "text": "どんちゃん「よーし！あたらしい\nオーブをさがしにいっくどーん！",
+    "text_en": "Don-chan: Alright! Let's go look\nfor the new orb da-doon!"
   },
   "S01_AREA1/S01_A08_WIN_A/MSG_Info.msb": {
     "type": "info_table",
